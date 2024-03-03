@@ -1,4 +1,5 @@
 # Yes_bank_stock_closing_price_prediction
+* Type :- REGRESSION
 
 In this project, we aim to predict the closing price of Yes Bank's stock using historical financial data and machine learning techniques. The closing price of a stock is an essential indicator for investors and traders to make informed decisions regarding buying, selling, or holding the stock.
 
